@@ -1,0 +1,18 @@
+{
+    "name": "julio899/email-timer-gif",
+    "description": "Generacion de Timers Ejecutables en Emails",
+    "license": "GPL 3",
+    "authors": [
+        {
+            "name": "Julio Vinachi",
+            "email": "julio899@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload":{
+        "classmap":[
+            "dependenci/clases"
+        ]
+    }
+}
